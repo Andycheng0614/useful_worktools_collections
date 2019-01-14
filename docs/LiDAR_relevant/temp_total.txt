@@ -1,0 +1,11 @@
+1. product URL
+https://velodynelidar.com/
+
+2. product lists:
+https://store.clearpathrobotics.com/collections/vendors?q=velodyne&creative=320630416709&keyword=lidar&matchtype=p&network=s&device=c&gclid=EAIaIQobChMI89_W_aLs3wIVMB-tBh0RHwViEAAYASAAEgID3_D_BwE
+
+3. ros package wiki:
+http://wiki.ros.org/velodyne
+
+4. ros driver github:
+https://github.com/ros-drivers/velodyne.git
